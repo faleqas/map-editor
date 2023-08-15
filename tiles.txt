@@ -1,0 +1,19 @@
+{
+    NAME = Test
+    ID = 1
+    PATH = assets/abdo.jfif
+    TILE_INDEX = 1
+}
+
+{
+    NAME = Test3
+    ID = 3
+    PATH = assets/abdo.jfif
+    TILE_INDEX = 2
+}
+
+{
+    NAME = Test2
+    ID = 2
+    PATH = assets/test.png
+}
